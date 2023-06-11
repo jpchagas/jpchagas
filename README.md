@@ -31,3 +31,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@jpchagas" /></a>
 
 </p> 
+
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jpchagas&theme=default&show_icons=true&cache_seconds=2300">
+
+### Faça um breve apresentação sobre você
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=João Pedro Chagas&style=for-the-badge&logo=GitHub">
+
+<p>
+
+Estudando/trabalhando na **nome do lugar**<br/>
+
+Eu sou desenvolvedor **sua área**.
+
+
+</p>
+<hr>
