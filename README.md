@@ -28,7 +28,6 @@ Experience on **Retail, Finance, Pharma and Legal** markets.
 
 
 ## Github Statistics
-<hr>
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=jpchagas&theme=default&show_icons=true">
 </div>
@@ -42,7 +41,6 @@ Experience on **Retail, Finance, Pharma and Legal** markets.
 
 
 ## Github Trophys
-<hr>
 <div align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=jpchagas">
 </div>
