@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![card](https://github-readme-stats.vercel.app/api?username=jpchagas&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![jpchagas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpchagas&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![jpchagas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jpchagas)](https://github.com/anuraghazra/github-readme-stats)
