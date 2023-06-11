@@ -15,9 +15,9 @@ Eu sou desenvolvedor **sua área**.
 </p>
 <hr>
 
-[![jpchagas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpchagas&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpchagas&hide=html&layout=compact&theme=default">
 
-[![jpchagas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jpchagas)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api/wakatime?username=jpchagas">
 
 <hr>
 
