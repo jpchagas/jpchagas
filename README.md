@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=jpchagas&color=006bed)
 ### Hi there 👋
 
 
